@@ -339,40 +339,46 @@ timeline
 
 ---
 
+<!-- Animated Goal Progress Bars -->
 ## 🎯 **Current Focus (2026) - Animated Goals**
 
 <div align="center">
 
-<!-- Animated Goal Progress Bars -->
+<!-- FIX: progress-bar.dev replaced with shields.io — 100% reliable -->
 <table>
   <tr>
-    <td width="200"><b>OSCP Preparation</b></td>
-    <td width="500">
-      <img src="https://progress-bar.dev/75?title=Progress&width=400&color=00d9ff" />
+    <td width="220"><b>🔐 OSCP Preparation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Progress-75%25-00d9ff?style=for-the-badge&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/████████████░░░░-75%25-00d9ff?style=flat-square&labelColor=0d1117&color=00d9ff" />
     </td>
   </tr>
   <tr>
-    <td><b>Bug Bounty Hunting</b></td>
+    <td><b>🐛 Bug Bounty Hunting</b></td>
     <td>
-      <img src="https://progress-bar.dev/60?title=Active&width=400&color=00ff00" />
+      <img src="https://img.shields.io/badge/Progress-60%25-00ff00?style=for-the-badge&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/█████████░░░░░░░-60%25-00ff00?style=flat-square&labelColor=0d1117&color=00ff00" />
     </td>
   </tr>
   <tr>
-    <td><b>Open Source Contribution</b></td>
+    <td><b>💚 Open Source Contribution</b></td>
     <td>
-      <img src="https://progress-bar.dev/40?title=Growing&width=400&color=ff9900" />
+      <img src="https://img.shields.io/badge/Progress-40%25-ff9900?style=for-the-badge&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/██████░░░░░░░░░░-40%25-ff9900?style=flat-square&labelColor=0d1117&color=ff9900" />
     </td>
   </tr>
   <tr>
-    <td><b>API Security Research</b></td>
+    <td><b>🔬 API Security Research</b></td>
     <td>
-      <img src="https://progress-bar.dev/85?title=Advanced&width=400&color=9c27b0" />
+      <img src="https://img.shields.io/badge/Progress-85%25-9c27b0?style=for-the-badge&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/█████████████░░░-85%25-9c27b0?style=flat-square&labelColor=0d1117&color=9c27b0" />
     </td>
   </tr>
   <tr>
-    <td><b>Python Automation</b></td>
+    <td><b>🐍 Python Automation</b></td>
     <td>
-      <img src="https://progress-bar.dev/90?title=Expert&width=400&color=ff0000" />
+      <img src="https://img.shields.io/badge/Progress-90%25-ff0000?style=for-the-badge&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/██████████████░░-90%25-ff0000?style=flat-square&labelColor=0d1117&color=ff0000" />
     </td>
   </tr>
 </table>
