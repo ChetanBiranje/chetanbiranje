@@ -244,27 +244,6 @@ print(me.security_expertise())
 
 <div align="center">
 
-<!-- 3D Project Cards -->
-<a href="https://github.com/ChetanBiranje/365DaysOfApplicationSecurity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanBiranje&repo=365DaysOfApplicationSecurity&theme=tokyonight&hide_border=true&show_icons=true&icon_color=00d9ff" />
-</a>
-<a href="https://github.com/ChetanBiranje/api-security-toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanBiranje&repo=api-security-toolkit&theme=tokyonight&hide_border=true&show_icons=true&icon_color=00d9ff" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ChetanBiranje/bug-bounty-toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanBiranje&repo=bug-bounty-toolkit&theme=tokyonight&hide_border=true&show_icons=true&icon_color=00d9ff" />
-</a>
-<a href="https://github.com/ChetanBiranje/webapp-pentest-framework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanBiranje&repo=webapp-pentest-framework&theme=tokyonight&hide_border=true&show_icons=true&icon_color=00d9ff" />
-</a>
-
-</div>
-
-<br/>
-
 ### 🔥 **Project Highlights**
 
 <details>
